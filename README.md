@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 My GitHub Stats
+
+!Your GitHub stats
+
+!Top Langs
