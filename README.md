@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ## 📊 My GitHub Stats
 
-!Your GitHub stats
+[!Your GitHub stats]
 
-!Top Langs
+[!Top Langs]
