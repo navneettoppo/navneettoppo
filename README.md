@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ## 📊 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneettoppo)](https://github.com/anuraghazra/github-readme-stats)
