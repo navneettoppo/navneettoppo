@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=navneettoppo&langs_count=5&theme=tokyonight)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneettoppo)](https://github.com/navneettoppo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneettoppo)]
 
 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=navneettoppo&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=navneettoppo&show_icons=true"
