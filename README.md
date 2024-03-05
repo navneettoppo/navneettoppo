@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 📊 My GitHub Stats
 
 
-<!--
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=navneettoppo&show_icons=true&theme=dark"
